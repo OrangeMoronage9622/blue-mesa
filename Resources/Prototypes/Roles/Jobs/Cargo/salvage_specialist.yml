@@ -20,7 +20,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitSalvageSpecialist
     id: SalvagePDA
-    ears: ClothingHeadsetCargo
+    ears: ClothingHeadsetMining
   #storage:
     #back:
     #- Stuff
