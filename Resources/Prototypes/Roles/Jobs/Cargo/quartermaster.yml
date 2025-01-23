@@ -26,24 +26,14 @@
   - Quartermaster
   - Maintenance
   - External
-  - Command
-  - Brig
   - Cryogenics
   - External # goobstation
-  special:
-  - !type:AddImplantSpecial
-    implants: [ MindShieldImplant ]
-  - !type:AddComponentSpecial
-    components:
-      - type: CommandStaff
 
 - type: startingGear
   id: QuartermasterGear
   equipment:
     id: QuartermasterPDA
     ears: ClothingHeadsetAltCargo # Goobstation
+    eyes: ClothingEyesGlassesSunglasses
     belt: BoxFolderClipboard
     pocket1: AppraisalTool
-  storage:
-    back:
-    - Flash

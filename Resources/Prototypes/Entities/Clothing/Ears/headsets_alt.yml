@@ -20,7 +20,6 @@
     containers:
       key_slots:
       - EncryptionKeyCargo
-      - EncryptionKeyCommand
       - EncryptionKeyCommon
   - type: Sprite
     sprite: Clothing/Ears/Headsets/cargo.rsi
