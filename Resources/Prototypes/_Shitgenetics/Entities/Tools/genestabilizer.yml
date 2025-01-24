@@ -1,0 +1,25 @@
+- type: entity
+  name: Genetic Stabilizer
+  description: Reverts genetic material back to their default state, reversing all mutations. Like injectors, they must be jammed into the body to be used.
+  id: GeneticStabilizer
+  parent: [BaseItem]
+  components:
+  - type: Item
+    size: Small
+  - type: GeneStabilizer
+  - type: InjectionPreset
+  - type: Sprite
+    sprite: _Shitgenetic/Objects/Tools/genestabilizer.rsi
+    layers:
+    - state: tool
+      visible: true
+  - type: MeleeWeapon
+    wideAnimationRotation: 90
+    resetOnHandSelected: false
+    animation: WeaponArcThrust
+    damage:
+      types:
+        Piercing: 1
+    soundHit:
+      path: /Audio/Weapons/pierce.ogg
+

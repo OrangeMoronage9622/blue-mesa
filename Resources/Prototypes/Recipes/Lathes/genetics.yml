@@ -1,0 +1,25 @@
+- type: latheRecipe
+  id: GeneticExtractor
+  result: GeneticExtractor
+  completetime: 2
+  materials:
+    Steel: 1000
+    Plastic: 500
+    Glass: 200
+
+- type: latheRecipe
+  id: GeneticStabilizer
+  result: GeneticStabilizer
+  completetime: 5
+  materials:
+    Plastic: 1000
+    Glass: 500
+    Gold: 500
+    Silver: 500
+
+- type: latheRecipe
+  id: MonkeyCubeWrapped
+  result: MonkeyCubeWrapped
+  completetime: 1
+  materials:
+    Steel: 1000 #this is needed for test subjects, so 10* steel is a good price for it. Unless yknow you use tiders as test subjects. But you wouldn't do that, would you?  c:
