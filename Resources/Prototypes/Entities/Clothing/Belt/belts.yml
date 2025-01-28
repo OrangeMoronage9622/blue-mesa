@@ -7,9 +7,9 @@
   description: Can hold various things.
   components:
   - type: Sprite
-    sprite: Clothing/Belt/utility.rsi
+    sprite: _Bluemesa/Clothing/Belt/utility.rsi
   - type: Clothing
-    sprite: Clothing/Belt/utility.rsi
+    sprite: _Bluemesa/Clothing/Belt/utility.rsi
   - type: Storage
     maxItemSize: Normal
     # TODO: Fill this out more.
