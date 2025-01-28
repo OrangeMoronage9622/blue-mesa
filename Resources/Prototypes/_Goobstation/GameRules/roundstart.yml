@@ -18,8 +18,8 @@
     agentName: changeling-roundend-name
     definitions:
     - prefRoles: [ Changeling ]
-      max: 5
-      playerRatio: 12
+      max: 6
+      playerRatio: 10
       lateJoinAdditional: true
       mindRoles:
       - MindRoleChangeling
@@ -38,7 +38,7 @@
     definitions:
     - prefRoles: [ Traitor ]
       max: 4
-      playerRatio: 15
+      playerRatio: 10
       blacklist:
         components:
         - AntagImmune
@@ -62,7 +62,7 @@
     definitions:
     - prefRoles: [ Changeling ]
       max: 4
-      playerRatio: 18
+      playerRatio: 14
       lateJoinAdditional: true
       mindRoles:
       - MindRoleTraitor
@@ -174,7 +174,7 @@
     - prefRoles: [ Blob ]
       min: 1
       max: 2
-      playerRatio: 35 #players = 2 blobs
+      playerRatio: 30 #players = 2 blobs
       allowNonHumans: true
       blacklist:
         components:

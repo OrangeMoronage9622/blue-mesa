@@ -169,13 +169,13 @@
   id: Traitor
   components:
   - type: GameRule
-    minPlayers: 5
+    minPlayers: 2
   - type: AntagSelection
     selectionTime: BeforeJobs # Goobstation
     definitions:
     - prefRoles: [ Traitor ]
-      max: 8
-      playerRatio: 10
+      max: 10
+      playerRatio: 8
       blacklist:
         components:
         - AntagImmune
