@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commits https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039, https://github.com/tgstation/tgstation/pull/67000/commits/fc5cfab0818db326a623eee84cd45e0c601b0b34, and https://github.com/tgstation/tgstation/pull/67000/commits/fc5cfab0818db326a623eee84cd45e0c601b0b34. monkey made by brainfood1183 (github) for ss14 and modified by Merrokitsune for Blue Mesa.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "equipped-INNERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "equipped-INNERCLOTHING-monkey",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inhand-right",
+      "directions": 4
+    }
+  ]
+}
