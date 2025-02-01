@@ -44,3 +44,5 @@
     price: 1000
   - type: Machine
     board: GeneticManipulatorCircuitboard
+  - type: GuideHelp
+    guides: [Genetics]

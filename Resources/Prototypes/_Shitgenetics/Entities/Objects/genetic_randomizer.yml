@@ -44,3 +44,5 @@
     price: 2000
   - type: Machine
     board: GeneticRandomizerCircuitboard
+  - type: GuideHelp
+    guides: [Genetics]
