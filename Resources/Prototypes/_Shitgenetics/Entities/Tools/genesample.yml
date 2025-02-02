@@ -13,4 +13,6 @@
     layers:
     - state: tool
       visible: true
+  - type: GuideHelp
+    guides: [Genetics]
 

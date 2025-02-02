@@ -1,0 +1,5 @@
+- type: guideEntry
+  id: Genetics
+  name: guide-entry-genetics
+  text: "/ServerInfo/_Shitgenetics/Guidebook/Science/Genetics.xml"
+  filterEnabled: true

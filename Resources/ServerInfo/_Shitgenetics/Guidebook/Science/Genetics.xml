@@ -1,0 +1,79 @@
+<Document>
+# Genetics
+The bread and butter of creating horrible mutations and turning the clown into a killing machine. Genetics is used for delving into the unknown and gathering the most useful, or fun, mutations to subject your crewmembers with.
+
+## The Tools of the trade
+First off, you need a genetic extractor, as well a genetic randomizer and finally a genetic manipulator. The genetic extractor is found in science lockers or from researching the T2 genetics research. The randomizer and manipulator however are only found in your RD's locker, so ask for assistance in starting it, or research the research to start it yourself.
+
+<Box>
+<GuideEntityEmbed Entity="GeneticExtractor" Caption="Genetic Extractor"/>
+<GuideEntityEmbed Entity="Genetic Manipulator" Caption="Genetic Manipulator"/>
+<GuideEntityEmbed Entity="Genetic Randomizer" Caption="Genetic Randomizer"/>
+</Box>
+
+  As well, you will be working with some other tools, like the titular genetic injector, and genetic samples. These are not needed to have on hand as tools right now, but you will be working with them later.
+
+  <Box>
+<GuideEntityEmbed Entity="geneinjector" Caption="The titular Genetic Injector"/>
+<GuideEntityEmbed Entity="genesample" Caption="Genetic Sample"/>
+</Box>
+
+## Testing Room
+
+Once you've got all your basic tools and machines, and you're ready to start, first you'll need a monkey and a testing chamber. Any room with a door and a chair to hold the monkey in will work. Monkey cubes can be printed for 10 steel at your lathe, and once again, if not researched, ask RD for the randomizer and manipulator.
+
+<Box>
+<GuideEntityEmbed Entity="MonkeyCubeWrapped" Caption="Monkey Cube"/>
+<GuideEntityEmbed Entity="Windoor" Caption="Windoor or Airlock"/>
+</Box>
+
+## Injecting Random Mutations
+
+To begin, interact with the randomizer machine to obtain a random genetic injector. This injector will contain 1-3 random mutations. Keep in mind the randomizer has a cooldown before it can generate more mutations. Once you've got the injector, you need to jam it into the monkey or testing subject to inject it. This means with force, so you need to attack the subject with the injector to start injecting.
+<Box>
+<GuideEntityEmbed Entity="geneinjector" Caption="Genetic Injector"/>
+<GuideEntityEmbed Entity="Genetic Randomizer" Caption="Genetic Randomizer"/>
+</Box>
+
+  Once the injection is complete, stick around and watch the subject from a safe distance. A lot of mutations won't be visible, so test and prod with different tools, like exposing the subject to damage or simply waiting to see if an effect happens. Remember to take your time and properly test the subject to confirm the type of mutations it has.
+
+  ## The Dangers of Mutation
+
+  While genetics can be useful, genetics are extremely dangerous. From EMP blasts, to exposions, to sending out fire and turning the air to plasma. It's important to always take it slow and properly document every mutation you see before moving on to injecting crewmembers or subjects with them.
+
+  As well, a subject can only have so many mutations at a time. If they reach a dangerous amount of mutations, like 5 or 6, the subject's body will start taking genetic damage and start twisting. This is forever, unless you have a very rare and expensive stabilizer, the subject with the genetic damage will likely be killed forever. No amount of healing can fix it. So please, don't inject random crewmembers with random injections, they will likely die from genetic damage. NT will not be pleased to hear about it, and will likely forcefully terminate your contract.
+
+## Extracting Mutations
+
+Once you've figured out what mutations a subject has, it's time to extract a sample and start duplicating it for crew use. Grab your genetic extractor, and jam it in, like the injector, to extract a sample. Remember, you need to attack with it, as lightly tapping it won't net any bit of genetic material.
+
+<Box>
+  <GuideEntityEmbed Entity="GeneticExtractor" Caption="Genetic Extractor"/>
+  <GuideEntityEmbed Entity="genesample" Caption="Genetic Sample"/>
+</Box>
+
+Then, once you have the sample, you need to turn it into something actually useful. Simply place it inside the genetic manipulator and watch it transform the sample into a full injector, copying each and every mutation in the subject's DNA.
+
+<Box>
+  <GuideEntityEmbed Entity="genesample" Caption="Genetic Sample"/>
+  <GuideEntityEmbed Entity="Genetic Manipulator" Caption="Genetic Manipulator"/>
+</Box>
+
+You can use a hand labeler to label this injector as whatever you want, and give it to crew for their needs. Like giving a plasma generator gene to an atmos tech or a self healing mutation to a clown. It's your freedom, and their choice to take injectors anyways. Keep in mind there's no way to confirm mutations in injectors... So if you were to label an exploding mutation a self heal and give it to captain, they would have no way to confirm what it is. But you wouldn't do that would you?
+
+## Seperating Mutations
+
+Sometimes, you only want one mutation from a bunch that you have obtained. No worries, as the genetic manipulator has a double function. By inserting a genetic injector with multiple mutations, the machine will seperate and give you an injector for each mutation. Keep in mind the machine has a cooldown.
+
+<Box>
+  <GuideEntityEmbed Entity="geneinjector" Caption="Genetic Injector"/>
+  <GuideEntityEmbed Entity="Genetic Manipulator" Caption="Genetic Manipulator"/>
+</Box>
+
+You can also use this on the random mutation injector as well to safely test one at a time. This works, however, it is also slower to test. As well, you will need to test each single injector you get from splitting, so it's your choice if you want to split mutations up or not.
+
+## Conclusion
+
+Well congrats! You now know how to turn a clown into a plasma firing killing machine! Now do keep in mind, genetics is a very subtle path of science. You will likely never really fully understand what mutations do what, and find what a certain injector did. Science is all about exploring this, so I advise you to try your best and keep trying, and don't get discouraged when your 15th monkey of the day blows itself up.
+
+</Document>

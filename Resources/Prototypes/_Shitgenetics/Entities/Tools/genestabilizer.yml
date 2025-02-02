@@ -22,4 +22,6 @@
         Piercing: 1
     soundHit:
       path: /Audio/Weapons/pierce.ogg
+  - type: GuideHelp
+    guides: [Genetics]
 
