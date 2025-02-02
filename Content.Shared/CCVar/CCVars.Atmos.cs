@@ -1,4 +1,4 @@
-﻿using Robust.Shared.Configuration;
+using Robust.Shared.Configuration;
 
 namespace Content.Shared.CCVar;
 
@@ -149,7 +149,7 @@ public sealed partial class CCVars
     ///     Setting this to zero disables the explosion but still allows the tank to burst and leak.
     /// </summary>
     public static readonly CVarDef<float> AtmosTankFragment =
-        CVarDef.Create("atmos.max_explosion_range", 26f, CVar.SERVERONLY);
+        CVarDef.Create("atmos.max_explosion_range", 999999999f, CVar.SERVERONLY);  //#blue mesa change :trollface:
 
     /// <summary>
     ///     Taken after the minimum pressure is checked, the effective pressure is multiplied by this amount.
